@@ -1,0 +1,8 @@
+Practica1 Vue3
+
+Nombre de integrante:
+- Diego Viscarra Pardo
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run serve
